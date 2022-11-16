@@ -10,8 +10,8 @@ import { Quotation } from './models/quotation';
 export class AppComponent {
 
   quotes: Quotation[] = QUOTES;
-  
-  appTitle = 'Najlepsze cytaty';
+
+  appTitle = 'Najlepsze cytaty2';
   bestQuotesTitle = 'Najlepiej oceniane';
   worstQuotesTitle = 'Najgorzej oceniane';
 
